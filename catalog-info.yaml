@@ -1,0 +1,10 @@
+---
+apiVersion: backstage.io/v1alpha1
+kind: Component
+metadata:
+  name: reacttest001
+  annotations:
+    github.com/project-slug: esrefeska/reacttest001
+spec:
+  type: other
+  lifecycle: unknown
