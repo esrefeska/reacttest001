@@ -14,7 +14,7 @@ metadata:
     - react
 spec:
   # which templater key to use in the templaters builder
-  #templater: cookiecutter
+  templater: cookiecutter
   # what does this template create
   type: website
   # if the template is not in the current directory where this definition is kept then specify
